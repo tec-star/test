@@ -7,3 +7,4 @@
 [2024-06-19 10:57:14] feat: Add new character creation screen
 [2024-06-20 11:52:53] refactor: Clean up UI code
 [2024-06-20 17:30:19] docs: Update API documentation
+[2024-06-20 16:15:52] fix: Fix save game corruption bug
