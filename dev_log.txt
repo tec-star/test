@@ -13,3 +13,4 @@
 [2024-06-21 15:40:29] docs: Add design spec for inventory
 [2024-06-24 16:29:44] docs: Update API documentation
 [2024-06-24 10:13:27] fix: Fix save game corruption bug
+[2024-06-25 16:04:29] feat: Add new character creation screen
