@@ -19,3 +19,4 @@
 [2024-06-27 14:40:34] refactor: Optimize game loop
 [2024-06-27 16:58:30] docs: Add design spec for inventory
 [2024-06-28 16:47:35] feat: Implement combat system
+[2024-06-28 11:42:06] docs: Update API documentation
