@@ -23,3 +23,4 @@
 [2024-07-01 13:56:44] docs: Add design spec for inventory
 [2024-07-01 10:58:06] refactor: Clean up UI code
 [2024-07-01 10:54:28] fix: Fix save game corruption bug
+[2024-07-02 15:02:23] refactor: Clean up UI code
