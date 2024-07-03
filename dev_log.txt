@@ -26,3 +26,4 @@
 [2024-07-02 15:02:23] refactor: Clean up UI code
 [2024-07-02 15:48:21] refactor: Restructure asset loading
 [2024-07-03 15:17:11] refactor: Restructure asset loading
+[2024-07-03 16:11:34] refactor: Optimize game loop
