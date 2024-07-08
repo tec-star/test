@@ -30,3 +30,4 @@
 [2024-07-05 13:32:36] refactor: Restructure asset loading
 [2024-07-05 10:43:25] refactor: Optimize game loop
 [2024-07-05 16:10:17] fix: Fix save game corruption bug
+[2024-07-08 10:28:37] feat: Add multiplayer functionality
