@@ -34,3 +34,4 @@
 [2024-07-08 12:12:43] fix: Resolve collision detection issue
 [2024-07-09 11:57:05] docs: Update API documentation
 [2024-07-10 11:08:42] feat: Add new character creation screen
+[2024-07-10 16:53:36] refactor: Clean up UI code
