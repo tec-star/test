@@ -37,3 +37,4 @@
 [2024-07-10 16:53:36] refactor: Clean up UI code
 [2024-07-11 15:19:17] feat: Implement combat system
 [2024-07-11 17:41:09] docs: Update API documentation
+[2024-07-11 09:58:44] fix: Resolve collision detection issue
