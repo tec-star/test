@@ -39,3 +39,4 @@
 [2024-07-11 17:41:09] docs: Update API documentation
 [2024-07-11 09:58:44] fix: Resolve collision detection issue
 [2024-07-12 16:23:37] refactor: Restructure asset loading
+[2024-07-15 14:19:12] fix: Fix save game corruption bug
