@@ -40,3 +40,4 @@
 [2024-07-11 09:58:44] fix: Resolve collision detection issue
 [2024-07-12 16:23:37] refactor: Restructure asset loading
 [2024-07-15 14:19:12] fix: Fix save game corruption bug
+[2024-07-15 17:55:46] feat: Add new character creation screen
