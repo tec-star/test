@@ -43,3 +43,4 @@
 [2024-07-15 17:55:46] feat: Add new character creation screen
 [2024-07-15 13:06:12] refactor: Clean up UI code
 [2024-07-16 14:31:19] docs: Document networking protocol
+[2024-07-16 10:30:57] docs: Document networking protocol
