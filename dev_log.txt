@@ -48,3 +48,4 @@
 [2024-07-17 16:11:35] docs: Add design spec for inventory
 [2024-07-17 12:50:24] fix: Resolve collision detection issue
 [2024-07-18 14:41:55] feat: Implement combat system
+[2024-07-18 13:23:08] refactor: Clean up UI code
