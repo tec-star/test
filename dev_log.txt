@@ -52,3 +52,4 @@
 [2024-07-18 09:56:40] fix: Fix save game corruption bug
 [2024-07-19 14:57:31] refactor: Optimize game loop
 [2024-07-19 15:35:28] refactor: Optimize game loop
+[2024-07-22 11:01:24] refactor: Clean up UI code
