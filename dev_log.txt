@@ -55,3 +55,4 @@
 [2024-07-22 11:01:24] refactor: Clean up UI code
 [2024-07-22 10:45:46] feat: Add multiplayer functionality
 [2024-07-22 13:53:10] feat: Add new character creation screen
+[2024-07-23 09:16:20] feat: Add multiplayer functionality
