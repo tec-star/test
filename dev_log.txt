@@ -58,3 +58,4 @@
 [2024-07-23 09:16:20] feat: Add multiplayer functionality
 [2024-07-23 10:27:32] refactor: Restructure asset loading
 [2024-07-23 10:08:03] fix: Fix memory leak in renderer
+[2024-07-24 10:42:49] feat: Add new character creation screen
