@@ -1,1 +1,6 @@
 [2024-06-12 09:36:01] docs: Document networking protocol
+[2024-06-13 16:00:38] docs: Add design spec for inventory
+[2024-06-14 14:55:44] fix: Fix memory leak in renderer
+[2024-06-17 16:49:27] docs: Update API documentation
+[2024-06-17 09:15:34] fix: Resolve collision detection issue
+[2024-06-18 09:18:15] fix: Resolve collision detection issue
