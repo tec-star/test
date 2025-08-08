@@ -1,1 +1,27 @@
 [2024-06-12 09:36:01] docs: Document networking protocol
+[2024-06-13 16:00:38] docs: Add design spec for inventory
+[2024-06-14 14:55:44] fix: Fix memory leak in renderer
+[2024-06-17 16:49:27] docs: Update API documentation
+[2024-06-17 09:15:34] fix: Resolve collision detection issue
+[2024-06-18 09:18:15] fix: Resolve collision detection issue
+[2024-06-19 10:57:14] feat: Add new character creation screen
+[2024-06-20 11:52:53] refactor: Clean up UI code
+[2024-06-20 17:30:19] docs: Update API documentation
+[2024-06-20 16:15:52] fix: Fix save game corruption bug
+[2024-06-21 13:46:49] docs: Add design spec for inventory
+[2024-06-21 13:22:22] docs: Update API documentation
+[2024-06-21 15:40:29] docs: Add design spec for inventory
+[2024-06-24 16:29:44] docs: Update API documentation
+[2024-06-24 10:13:27] fix: Fix save game corruption bug
+[2024-06-25 16:04:29] feat: Add new character creation screen
+[2024-06-25 14:13:37] docs: Update API documentation
+[2024-06-26 11:31:04] refactor: Restructure asset loading
+[2024-06-27 14:40:34] refactor: Optimize game loop
+[2024-06-27 16:58:30] docs: Add design spec for inventory
+[2024-06-28 16:47:35] feat: Implement combat system
+[2024-06-28 11:42:06] docs: Update API documentation
+[2024-07-01 13:56:44] docs: Add design spec for inventory
+[2024-07-01 10:58:06] refactor: Clean up UI code
+[2024-07-01 10:54:28] fix: Fix save game corruption bug
+[2024-07-02 15:02:23] refactor: Clean up UI code
+[2024-07-02 15:48:21] refactor: Restructure asset loading
